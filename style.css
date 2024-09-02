@@ -10,3 +10,8 @@ div {
     text-align: center;
     background-color: rgb(250, 192, 104)
 }
+button {
+   font-size: medium;
+   color: red;
+
+}
