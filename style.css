@@ -1,4 +1,7 @@
 /* index page */
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
 .header {
     text-align: center;
     background-color: rgb(250, 192, 104)
