@@ -17,3 +17,7 @@ button {
    font-size: large;
    background-color: rgb(208, 159, 86)
 }
+/* Recipe Pages */
+#home-button {
+    font-size: x-large;
+}
